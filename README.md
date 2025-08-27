@@ -13,7 +13,7 @@ This repository provides Python utilities for loading, processing, analyzing, an
 
 - **Data Loading**
   - Parse binary `.bin` files from accelerometers and gyroscopes.
-  - Automatic record format detection (old chunked and new single-file formats supported).
+  - Automatic record format detection (chunked and single-file formats supported).
   - Timestamp normalization and time-indexed pandas DataFrames.
 
 - **Preprocessing**
